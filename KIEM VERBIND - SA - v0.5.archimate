@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archimate:model xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:archimate="http://www.archimatetool.com/archimate" name="Kiem Verbindt Software Architectuur" id="3880f5ac-dce2-4769-bec8-06fe521bf1af" version="4.0.0">
+  <folder name="Strategy" id="0d666efc-d798-4267-b8ad-b901633a274a" type="strategy"/>
+  <folder name="Business" id="9ddb3a97-17a8-48b4-92a1-61e8918a985f" type="business"/>
+  <folder name="Application" id="5656f18e-d8c2-4e09-902a-03456e06ed81" type="application"/>
+  <folder name="Technology &amp; Physical" id="78c5ae4f-5efa-4d0c-ab29-8242402c5fc2" type="technology"/>
+  <folder name="Motivation" id="feac30f0-8a20-4089-8146-7fb2838be114" type="motivation"/>
+  <folder name="Implementation &amp; Migration" id="75c90b6b-e16b-4dcc-b268-a7372990588a" type="implementation_migration"/>
+  <folder name="Other" id="157586d0-9b7a-443f-8a25-314be3341193" type="other"/>
+  <folder name="Relations" id="169c0209-e23e-4732-9b2c-b73bf4390300" type="relations"/>
+  <folder name="Views" id="399eed44-62b3-4f56-89bc-aea83795027b" type="diagrams">
+    <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="205f7126-b871-4b1e-99a3-4cb2b96b552b"/>
+  </folder>
+</archimate:model>
