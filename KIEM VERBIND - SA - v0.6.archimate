@@ -368,10 +368,8 @@
         <bounds x="577" y="150" width="120" height="55"/>
       </child>
       <child xsi:type="archimate:Note" id="4832ed99-a246-4092-b052-2028c6c6eed2" textAlignment="1">
-        <bounds x="12" y="383" width="185" height="80"/>
-        <content>Feedback loops per classifier, is er een manier om de waarde  te verbetren.&#xD;
-&#xD;
-Model, pdf en link Git sturen</content>
+        <bounds y="455" width="181" height="62"/>
+        <content>Feedback loops per classifier, is er een manier om de waarde  te verbetren.</content>
       </child>
     </element>
   </folder>
